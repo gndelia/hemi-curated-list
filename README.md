@@ -17,6 +17,7 @@ These sites support the HEMI token, either only on the Hemi network, or in other
 - [Eisen](https://app.eisenfinance.com/) DEX aggregator that works on Hemi for several ERC20 tokens. [Official announcement](https://x.com/EisenLabs/status/1897084841646285263).
 - [Houdini Swap](https://houdiniswap.com/) Swap and bridge many ERC20 tokens. [Official announcement](https://x.com/hemi_xyz/status/1958177692366393435).
 - [Izumi](https://izumi.finance/trade/swap) Swap, bridge and provide liquidity with tokens on Hemi. It supports the HEMI token, although with low liquidity for swapping.
+- [Mexc](https://www.mexc.com/futures/HEMI_USD) Supports trading futures on HEMI with up to 100x leverage in Binance Smart Chain. [Official announcement](https://x.com/MEXC_Listings/status/1961278916649423306).
 - [Satori](https://trade.satori.finance/HEMI-USD) Trade the HEMI-USD pair with up to 10x leverage. [Official announcement](https://x.com/hemi_xyz/status/1915805202784883188).
 - [Stargate](https://stargate.finance/) Supports bridging the HEMI token to BSC. [Official announcement](https://x.com/hemi_xyz/status/1962945758006550876).
 - [SushiSwap](https://www.sushi.com/hemi/swap) Supports swapping a wide variety of ERC20 tokens, all in the Hemi network. [Official announcement](https://x.com/SushiSwap/status/1841478744932036957).
