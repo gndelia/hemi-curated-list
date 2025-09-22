@@ -32,6 +32,7 @@ These sites do not support the HEMI token, but support other ERC20 tokens
 - [DZap](https://app.dzap.io/trade?fromChain=43111&fromToken=0x0000000000000000000000000000000000000000&toChain=43111&toToken=0xAA40c0c7644e0b2B224509571e10ad20d9C4ef28) Supports exchanging ETH, USDC, USDT, VUSD, hemiBTC, msBTC as well as others. [Official announcement](https://x.com/hemi_xyz/status/1940078390494494750).
 - [Firefly Bridge](https://fireflylabs.app/simple-bridge/Hemi/Ethereum?token=USDT) Support bridging ETH, USDT and USDC from Hemi to other chains. [Official announcement](https://x.com/hemi_xyz/status/1968351743135342604).
 - [Gearbox Protocol](https://app.gearbox.fi/pools) Supports lending hemiBTC and USDC and earn passive income. [Official announcement](https://x.com/hemi_xyz/status/1948424207966048754).
+- [MeMe Bridge](https://www.memebridge.xyz/bridge?original=hemi&target=bsc&symbol=eth) Supports bridging ETH from Hemi to other chains. [Official announcement](https://x.com/hemi_xyz/status/1970176148375249375).
 - [Meson](https://meson.fi/) Bridge ETH, USDC and USDT from/to Hemi from Arbitrum and lots of other chains. [Official announcement](https://x.com/hemi_xyz/status/1916930414507397229).
 - [Oku trade](https://oku.trade/?inputChain=hemi&inToken=0x0000000000000000000000000000000000000000&outToken=0xaa40c0c7644e0b2b224509571e10ad20d9c4ef28) Trade and bridge tokens on the Hemi network.
 - [Orbiter Finance](https://www.orbiter.finance/) Supports bridging USDC and wBTC from/to Hemi. [Official announcement](https://x.com/hemi_xyz/status/1955245637982703736).
